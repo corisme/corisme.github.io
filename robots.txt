@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corisme.github.io/sitemap.html.gz
+Sitemap: https://corisme.github.io/app/sitemap.html.gz
+Sitemap: https://corisme.github.io/assets/sitemap.html.gz
+Sitemap: https://corisme.github.io/css/sitemap.html.gz
+Sitemap: https://corisme.github.io/data/sitemap.html.gz
+Sitemap: https://corisme.github.io/includes/sitemap.html.gz
+Sitemap: https://corisme.github.io/item/sitemap.html.gz
+Sitemap: https://corisme.github.io/src/sitemap.html.gz
